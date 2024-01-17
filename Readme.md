@@ -60,14 +60,6 @@ Hi, I'm Tzu-Zhen Zhou – former cosmetic researcher turned coding enthusiast. I
   More stuff about me
 </summary>
 
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
 #### Github Stats
 
 [![EuniceZhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunicezhou&hide=contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
