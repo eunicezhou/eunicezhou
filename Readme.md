@@ -1,14 +1,15 @@
 ## Hi I'm Tzu-Zhen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 Check out [my Portfolio](https://drive.google.com/file/d/1DLpoWQwSZWC7WbpHKdrgCqhQKMXesrYO/view?usp=drive_link) 
+
+#### 🚀 Check out [my Portfolio](https://drive.google.com/file/d/1DLpoWQwSZWC7WbpHKdrgCqhQKMXesrYO/view?usp=drive_link) 
 
 Hi, I'm Tzu-Zhen Zhou – former cosmetic researcher turned coding enthusiast. I dove into programming just last year, immersing myself in cloud development, database design, and practical application of these skills. From theory to hands-on experience, I'm all in on the coding journey ✈️  
 
-💬Reach me out!
+#### 💬Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-TzuZhen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzu-chen-chou-ab35b6295/) [![Mail Badge](https://img.shields.io/badge/-TzuZhenZhou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:czhen961486@gmail.com)
 
-### What I currently Do
+### What's my currently information
 
 - 🏠 I’m currently living in Tainan
 - 💻 Most used line of code `git add .`
